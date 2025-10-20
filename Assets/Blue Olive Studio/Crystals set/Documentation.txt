@@ -1,0 +1,18 @@
+Crystal Set Asset Package Documentation
+
+## Introduction
+Welcome to the My Unity Asset Package! This package provides a crystal set to use in your own projects.
+
+## Installation Instructions
+1. Import the package into your Unity project by navigating to Assets -> Import Package -> Custom Package.
+2. Select the "Crystals Set-URP support.unitypackage" file and click Import.
+3. Ensure that all necessary files are selected and click Import.
+
+## Usage Instructions
+### Setting Up
+1. Drag and drop the asset prefab into your scene.
+
+## Support Information
+For support, please contact us at ember.games.contact@gmail.com
+
+Thank you for downloading!
